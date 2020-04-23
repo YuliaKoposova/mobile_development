@@ -1,0 +1,9 @@
+C:\Users\natah\source\repos\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\natah\source\repos\Lab 2\obj\Debug\Lab_2.Form1.resources
+C:\Users\natah\source\repos\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\natah\source\repos\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\natah\source\repos\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\natah\source\repos\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\natah\source\repos\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\natah\source\repos\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\natah\source\repos\Lab 2\obj\Debug\Lab 2.pdb
